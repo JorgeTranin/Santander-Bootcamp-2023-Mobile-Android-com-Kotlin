@@ -4,24 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="519130b6-98f0-45c4-bbf6-0a75df3ef3f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introducao-Pratica-a-Linguagem-de-Programacao-Kotlin/Introducao-Pratica-a-Linguagem-de-Programacao-Kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introducao-Pratica-a-Linguagem-de-Programacao-Kotlin/src/Funcoes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introducao-Pratica-a-Linguagem-de-Programacao-Kotlin/src/helloWorld.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resolvendo-seus-primeiros-desafios-de-codigo/Resolvendo-seus-primeiros-desafios-de-codigo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resolvendo-seus-primeiros-desafios-de-codigo/src/DesafiosKotlinCondicionalmenteRico.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resolvendo-seus-primeiros-desafios-de-codigo/src/DesafiosKotlinJurosCompostos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resolvendo-seus-primeiros-desafios-de-codigo/src/DesafiosKotlinOGrandeDeposito.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resolvendo-seus-primeiros-desafios-de-codigo/src/DesafiosKotlinOrganizandoSeusAtivos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resolvendo-seus-primeiros-desafios-de-codigo/src/EquilibrandoSaldo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Santander-Bootcamp-2023-Mobile-Android-com-Kotlin.iml" afterDir="false" />
+    <list default="true" id="519130b6-98f0-45c4-bbf6-0a75df3ef3f9" name="Changes" comment="resolução do 1 modulo de desafios da DIO - Santander Bootcamp 2023 - Mobile Android com Kotlin">
+      <change afterPath="$PROJECT_DIR$/Praticando-Sua-Abstracaono-Dominio-Bancario/PraticandoSuaAbstracaonoDominioBancario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praticando-Sua-Abstracaono-Dominio-Bancario/src/AbrindoContas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praticando-Sua-Abstracaono-Dominio-Bancario/src/CofresSeguros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praticando-Sua-Abstracaono-Dominio-Bancario/src/HerancaBancaria.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praticando-Sua-Abstracaono-Dominio-Bancario/src/ReuniaoDeAcionistas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praticando-Sua-Abstracaono-Dominio-Bancario/src/UltimaTransacao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,62 +41,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-19"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Resolvendo-seus-primeiros-desafios-de-codigo/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.DesafiosKotlinOGrandeDepositoKt">
-    <configuration name="DesafiosKotlinCondicionalmenteRicoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafiosKotlinCondicionalmenteRicoKt" />
-      <module name="Resolvendo-seus-primeiros-desafios-de-codigo" />
+  <component name="RunManager" selected="Kotlin.UltimaTransacaoKt">
+    <configuration name="AbrindoContasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbrindoContasKt" />
+      <module name="PraticandoSuaAbstracaonoDominioBancario" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafiosKotlinJurosCompostosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafiosKotlinJurosCompostosKt" />
-      <module name="Resolvendo-seus-primeiros-desafios-de-codigo" />
+    <configuration name="CofresSegurosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CofresSegurosKt" />
+      <module name="PraticandoSuaAbstracaonoDominioBancario" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafiosKotlinOGrandeDepositoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafiosKotlinOGrandeDepositoKt" />
-      <module name="Resolvendo-seus-primeiros-desafios-de-codigo" />
+    <configuration name="HerancaBancariaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HerancaBancariaKt" />
+      <module name="PraticandoSuaAbstracaonoDominioBancario" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafiosKotlinOrganizandoSeusAtivosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafiosKotlinOrganizandoSeusAtivosKt" />
-      <module name="Resolvendo-seus-primeiros-desafios-de-codigo" />
+    <configuration name="ReuniaoDeAcionistasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReuniaoDeAcionistasKt" />
+      <module name="PraticandoSuaAbstracaonoDominioBancario" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EquilibrandoSaldoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EquilibrandoSaldoKt" />
-      <module name="Resolvendo-seus-primeiros-desafios-de-codigo" />
+    <configuration name="UltimaTransacaoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UltimaTransacaoKt" />
+      <module name="PraticandoSuaAbstracaonoDominioBancario" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.DesafiosKotlinOGrandeDepositoKt" />
-        <item itemvalue="Kotlin.DesafiosKotlinJurosCompostosKt" />
-        <item itemvalue="Kotlin.DesafiosKotlinCondicionalmenteRicoKt" />
-        <item itemvalue="Kotlin.DesafiosKotlinOrganizandoSeusAtivosKt" />
-        <item itemvalue="Kotlin.EquilibrandoSaldoKt" />
+        <item itemvalue="Kotlin.UltimaTransacaoKt" />
+        <item itemvalue="Kotlin.ReuniaoDeAcionistasKt" />
+        <item itemvalue="Kotlin.CofresSegurosKt" />
+        <item itemvalue="Kotlin.HerancaBancariaKt" />
+        <item itemvalue="Kotlin.AbrindoContasKt" />
       </list>
     </recent_temporary>
   </component>
@@ -117,6 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692556816335</updated>
     </task>
+    <task id="LOCAL-00001" summary="resolução do 1 modulo de desafios da DIO - Santander Bootcamp 2023 - Mobile Android com Kotlin">
+      <created>1692565714760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692565714760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,5 +130,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resolução do 1 modulo de desafios da DIO - Santander Bootcamp 2023 - Mobile Android com Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolução do 1 modulo de desafios da DIO - Santander Bootcamp 2023 - Mobile Android com Kotlin" />
   </component>
 </project>

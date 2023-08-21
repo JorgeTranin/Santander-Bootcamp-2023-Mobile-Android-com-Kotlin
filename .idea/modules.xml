@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Introducao-Pratica-a-Linguagem-de-Programacao-Kotlin/Introducao-Pratica-a-Linguagem-de-Programacao-Kotlin.iml" filepath="$PROJECT_DIR$/Introducao-Pratica-a-Linguagem-de-Programacao-Kotlin/Introducao-Pratica-a-Linguagem-de-Programacao-Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticando-Sua-Abstracaono-Dominio-Bancario/PraticandoSuaAbstracaonoDominioBancario.iml" filepath="$PROJECT_DIR$/Praticando-Sua-Abstracaono-Dominio-Bancario/PraticandoSuaAbstracaonoDominioBancario.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resolvendo-seus-primeiros-desafios-de-codigo/Resolvendo-seus-primeiros-desafios-de-codigo.iml" filepath="$PROJECT_DIR$/Resolvendo-seus-primeiros-desafios-de-codigo/Resolvendo-seus-primeiros-desafios-de-codigo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Santander-Bootcamp-2023-Mobile-Android-com-Kotlin.iml" filepath="$PROJECT_DIR$/Santander-Bootcamp-2023-Mobile-Android-com-Kotlin.iml" />
     </modules>
